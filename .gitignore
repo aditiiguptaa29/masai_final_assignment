@@ -23,6 +23,7 @@ out/
 # Build outputs
 build/
 admin/fleet-admin-portal/build/
+admin/fleet-admin-portal/
 
 # Docker
 .docker/
