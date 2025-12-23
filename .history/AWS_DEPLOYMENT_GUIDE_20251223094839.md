@@ -1,5 +1,22 @@
+Conversation opened. 1 unread message.
 
-#  Fleet Management System - AWS Deployment Guide
+Skip to content
+Using Gmail with screen readers
+Enable desktop notifications for Gmail.
+   OK  No, thanks
+23 of 3,356
+Document from Aditi
+Inbox
+
+9762_Aditi_Gupta <crce.9762.ce@gmail.com>
+Attachments
+Sun 21 Dec, 14:18 (2 days ago)
+to me
+
+DEPLOYMENT_GUIDE.md 
+ One attachment
+  •  Scanned by Gmail
+# 🚀 Fleet Management System - AWS Deployment Guide
 
 ## Part 4: Complete AWS Deployment Strategy
 
